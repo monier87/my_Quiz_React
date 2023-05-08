@@ -1,6 +1,14 @@
 export const jsQuizz = {
     questions: [
         {
+
+            question:
+                "______ Proporcionar una forma de pasar datos de un componente a otro. Llene el espacio en blanco",
+            type: "FIB",
+            correctAnswer: "props",
+        },
+        {
+
             question:
                 "¿Cuál de los siguientes se usa en React.js para aumentar el rendimiento?",
             choices: [
